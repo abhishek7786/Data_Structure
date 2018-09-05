@@ -6,7 +6,7 @@
   ### What is this Duality Counting Principle ?<br>
   This is simple principle of counting same thing in two manners and then equating them.<br><br>
   For e.g -> There are **n** numbers of people in a room. Now number of ways you can select any number of person is
-  2<sup>n</sup> <br> **how?**,simple ask each person whether he want to attend the party or not.<br> 2+2+2+...+2(n-times).
+  2<sup>n</sup> <br> **how?**,simple ask each person whether he want to be selected or not.<br> 2+2+2+...+2(n-times).
   why n times, because there are n persons.<br><br>
   Now count this thing again by different way , suppose select 0 from n ,then select 1 from n. <br><tab>Now for selecting **k** from **n** we can use this formula  **<sup>n</sup>C<sub>k<sub>**<br><br>
     And as both thing are calculating the same we can write 
